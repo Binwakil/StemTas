@@ -13,6 +13,13 @@ pub struct Sale {
     pub nft_contract_id: String,
     //actual token ID for sale
     pub token_id: String,
+
+    // //actual token ID for sale
+    // pub token_length: String,
+
+    // //actual token ID for sale
+    // pub time_listed: String,
+
     //sale price in yoctoNEAR that the token is listed for
     pub sale_conditions: SalePriceInYoctoNear,
 }
