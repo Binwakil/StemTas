@@ -1,9 +1,27 @@
-# ARCHIVERSE NFT MARKETPLACE 
+# STEM NFT AUCTION SYSTEM
 
-Welcome to ARCHIVERS NFT MARKETPLACE 
+Welcome to STEM TAS 
 
-Archiverse is an NFT marketplace for architectural designs on the #near chain. It allows architects to mint 3D structures of buildings as an NFT and sell detailed architectural documents to the buyer. Unlike other forms of NFT markets that allow people to buy and sell art. Archiverse allows architects to literary sell the detailed design documents that contain the complete structure of the design to the customers, by minting the 3D design as an NFT and storing the Detailed Document on IPFS, encrypting its reference, and attaching it to the NFT as an extra.
-When a buy purchase the NFT  the reference is decrypted and the detailed design is made available to him.
+Brief Description about STEM TAS
+
+STEM TAS is a cutting-edge blockchain solution that has been designed to facilitate the exchange of tokens via an English auction for STEM educational resources. The platform enables users, including sellers and bidders, to engage in a transparent and efficient process of exchanging tokens for high-quality STEM education resources.
+
+STEM TAS operates on a decentralized blockchain network that ensures the security and immutability of all transactions conducted on the platform. The use of blockchain technology also ensures that all parties involved in the token auction are verified and can be trusted.
+
+STEM TAS is particularly useful for educators, students, and anyone interested in STEM education, as it provides a transparent and fair platform for exchanging tokens for valuable educational resources. With STEM TAS, users can be confident in the authenticity of the educational resources they purchase, as they are all vetted and verified before being listed on the platform.
+
+Overall, STEM TAS represents a groundbreaking solution in the field of STEM education, providing an innovative way for users to exchange tokens for valuable educational resources.
+In addition to the features mentioned above, STEM TAS also includes the following functionalities:
+
+Tokens are sold to the highest bidder: STEM TAS operates on a traditional English auction model, where the token is sold to the highest bidder at the end of the auction period.
+A reserve price, set by the seller, must be met: The seller can set a reserve price for the token, which is the minimum price at which they are willing to sell the token.
+Bids below the reserve price are not allowed: Bids that are below the reserve price will be rejected by the platform.
+Bids are disclosed: All bids are transparent and visible to all users of the platform.
+The names of the seller and bidders are disclosed for each token auction: The identity of both the seller and bidders are disclosed for each auction, adding transparency and accountability to the process.
+Anonymous bidding is not permitted: All bidders must disclose their identity to participate in the auction.
+Auctions close 15 minutes after the first bid is received: Once the first bid is received, the auction period begins, and all bids must be submitted within a specified timeframe. The auction period lasts for 15 minutes, and if no further bids are received, the highest bidder wins the token.
+On-chain auction history (optional): The STEM TAS platform also provides the option for users to view on-chain auction history, allowing them to track previous auctions and analyze market trends.
+Overall, STEM TAS offers a robust and transparent token auction platform for STEM educational resources, providing an efficient and secure way for buyers and sellers to exchange tokens for valuable resources
 
 
 
